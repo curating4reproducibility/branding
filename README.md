@@ -1,8 +1,12 @@
 # CuRe Branding
 
-This repository houses branding and marketing materials for Curating for Reproducibility along with other diagrams that might be used for presentation building, reporting, etc. 
+This repository houses branding and marketing materials for Curating for Reproducibility along with other diagrams that might be used for presentation building, reporting, etc.
 
 # Basic branding info
+
+## Current web mockups (thumai)
+
+https://docs.google.com/presentation/d/1JCQIsxjBR7tGQu5R2TStVEuxzlnGQmm0SKrEnRxDq4c/edit#slide=id.g10d082f5c18_0_185
 
 ## Color palette
 
