@@ -6,9 +6,9 @@ This repository houses branding and marketing materials for Curating for Reprodu
 
 ## Color palette
 
-Cornell red: #B31B1B
-Yale blue: #00356B
-Carolina blue: #4B9CD3
+- Cornell red: #B31B1B
+- Yale blue: #00356B
+- Carolina blue: #4B9CD3
 
 ## Fonts
 
