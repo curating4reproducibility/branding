@@ -13,6 +13,7 @@ https://docs.google.com/presentation/d/1JCQIsxjBR7tGQu5R2TStVEuxzlnGQmm0SKrEnRxD
 - Cornell red: #B31B1B
 - Yale blue: #00356B
 - Carolina blue: #4B9CD3
+- Grey: #CCCCCC
 
 ## Fonts
 
